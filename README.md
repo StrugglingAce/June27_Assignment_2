@@ -2,11 +2,19 @@
 
 This is our second assignment. Your first issue will be to complete the README.md (this file).
 
--  *a title **(required)**
--  *a description **(required)**
--  a list of features (ai, machine learning, etc...)
--  a list of technologies used (languages, frameworks, etc...)
--  a list of known bugs (don't really need a description, just a list, the bug is usually sefl-explanatory)
--  a list of contributors (usernames only, GitHub profile links would work)
--  some instructions (how to install, how to use, etc...)
--  you can also add a table of contents, images, links, etc... (these would be for larger projects but have fun if you like 😊)
+# AstroView
+
+AstroView is a sleek, modern website that lets users explore real-time data from space telescopes, track celestial events, and learn more about the universe in an interactive way.
+
+## 🌟 Features
+- Live tracking of planets and stars
+- Daily space imagery and news
+- Interactive sky map
+- Educational resources and quizzes
+
+## 🛠️ Technologies Used
+- HTML5 & CSS3
+- JavaScript (ES6)
+- React.js
+- NASA Open APIs
+- Tailwind CSS
